@@ -1,5 +1,7 @@
-# This is a simple python program that loops forever printing the dave every 2 seconds.
+#!/usr/bin/env python
+# This is super basic and should run on prety-much any python you happen to have.
 
+# This is a simple python program that loops forever printing the dave every 2 seconds.
 import time
 from datetime import datetime
 
