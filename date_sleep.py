@@ -2,6 +2,7 @@
 # This is super basic and should run on prety-much any python you happen to have.
 
 # This is a simple python program that loops forever printing the date every 2 seconds.
+import sys
 import time
 from datetime import datetime
 
